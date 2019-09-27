@@ -1,10 +1,9 @@
 {
     "courseId": "course-starter-r",
-    "title": "My cool online course",
-    "slogan": "A free online course",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec velit nec, consectetur placerat enim.",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna.",
-    "siteUrl": "https://course-starter-r.netlify.com",
+    "title": "DSCI 531 - Exploratory Data Visualization",
+    "slogan": "Part of UBC's Mid-Career Learning program",
+    "description": "Learn about exploratory data analysis, how to summarize and explore data through visualizations. Get familiar with plotting tools in R, in particular; ggplot. Learn how to design an effective visualization.",
+    "bio": "UBC information and Mid-careers information",
     "twitter": "spacy_io",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "success <- function(text) {\n    cat(paste(\"\\033[32m\", text, \"\\033[0m\", sep = \"\"))\n}\n\n.solution <- \"${solutionEscaped}\"\n\n${solution}\n\n${test}\ntryCatch({\n    test()\n}, error = function(e) {\n    cat(paste(\"\\033[31m\", e[1], \"\\033[0m\", sep = \"\"))\n})",
@@ -17,9 +16,9 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://spacy.io" },
-        { "text": "Source", "url": "https://github.com/ines/course-starter-r" },
+        { "text": "Website", "url": "https://masterdatascience.ubc.ca" },
+        { "text": "Source", "url": "https://github.com/UBC-MDS/DSCI_531_data-visualization-course" },
         { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-r" }
     ],
-    "theme": "#de7878"
+    "theme": "#0BB5D4"
 }
