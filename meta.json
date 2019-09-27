@@ -16,9 +16,9 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://masterdatascience.ubc.ca" },
-        {"text": "Source", "url": "https://github.com/ines/course-starter-r" },
-        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-r"  }
-    ],
+           { "text": "Website", "url": "https://spacy.io" },
+           { "text": "Source", "url": "https://github.com/ines/course-starter-r" },
+           { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-r" }
+       ],
     "theme": "#0BB5D4"
 }
