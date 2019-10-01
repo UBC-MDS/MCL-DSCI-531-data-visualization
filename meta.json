@@ -18,7 +18,7 @@
     "showProfileImage": true,
     "footerLinks": [
         { "text": "Website", "url": "https://masterdatascience.ubc.ca" },
-        { "text": "Source", "url": "https://masterdatascience.ubc.ca" },
+        { "text": "Source", "url": "https://github.com/UBC-MDS/DSCI_531_data-visualization-course" },
         { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-r" }
     ],
     "theme": "#0BB5D4"

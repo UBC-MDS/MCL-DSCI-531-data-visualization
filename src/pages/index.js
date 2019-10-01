@@ -17,6 +17,17 @@ export default ({ data }) => {
     return (
         <Layout isHome>
             <Logo className={classes.logo} aria-label={siteMetadata.title} />
+            <section>
+                <h1 className={classes.subtitle}> DSCI 531 Exploratory Data Visualization</h1>
+                <div className={classes.introduction}>
+                <p>
+         Welcome to DSCI 531!  This course is part of UBC's Mid-Careers Learning program. In this course we hope to teach you about explorstory data analysis and how to summarize and explore data through visualizations. We hope that you come out of this course feeling confident in your ability with plotting tools in R, particularly ggplot. This course will have you analyzing plots and graphs you meet in the wild and critiquing them.
+    </p>
+    <p>
+        <strong>Course prerequisites:</strong> DSCI 511b. 
+    </p>
+    </div>
+</section>
             {chapters.map(({ slug, title, description }) => (
                 <section key={slug} className={classes.chapter}>
                     <h2 className={classes.chapterTitle}>

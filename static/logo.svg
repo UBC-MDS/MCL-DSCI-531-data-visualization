@@ -3,9 +3,15 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 783.6 351.4" style="enable-background:new 0 0 783.6 351.4;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#0BB5D4;}
-	.st1{font-family:'Arial-Black';}
-	.st2{font-size:78px;}
+	.st0{fill:none;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'Arial-Black';}
+	.st3{font-size:68px;}
+	.st4{font-size:78px;}
+	.st5{font-size:92px;}
 </style>
-<text transform="matrix(1 0 0 1 158.6245 103.1665)"><tspan x="0" y="0" class="st0 st1 st2">DSCI - 531 </tspan><tspan x="-25.9" y="96" class="st0 st1 st2">Exploratory </tspan><tspan x="-153.8" y="192" class="st0 st1 st2">Data Visualization</tspan></text>
+<image style="overflow:visible;" width="1393" height="631" xlink:href="B31AB18069116288.png"  transform="matrix(0.5629 0 0 0.5629 -0.2815 -1.9047)">
+</image>
+<rect y="37.7" class="st0" width="783.6" height="323"/>
+<text transform="matrix(1 0 0 1 23.4775 86.3535)"><tspan x="0" y="0" class="st1 st2 st3">Mid Career Learner:</tspan><tspan x="18.9" y="93.6" class="st1 st2 st3">Key Capabilities in</tspan><tspan x="717.8" y="93.6" class="st1 st2 st4"> </tspan><tspan x="33.5" y="204" class="st1 st2 st5">Data Science</tspan></text>
 </svg>
