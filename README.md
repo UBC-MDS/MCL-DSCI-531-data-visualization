@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UBC-MDS/DSCI_531_data-visualization-course/binder)
+
 # Online course starter: R
 
 This is a starter repo based on the
