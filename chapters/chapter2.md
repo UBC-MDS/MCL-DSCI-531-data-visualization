@@ -1,10 +1,9 @@
 ---
-title: 'Chapter 2: More stuff'
+title: 'Module 2: Easing into GGplot'
 description:
-  'This chapter will teach you even more stuff and help you learn some new
-  concepts.'
+  'This module will teach you the Grammar of Graphics, and introduce you to different plot types and functions in ggplot'
 prev: /chapter1
-next: null
+next: /chapter3
 type: chapter
 id: 2
 ---

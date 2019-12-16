@@ -7,6 +7,11 @@ type: slides
 Notes: Text at the end of a slide prefixed like this will be displayed as
 speaker notes on the side. Slides can be separated with a divider: ---.
 
+<html>
+<audio controls >
+  <source src="test_1.mp3" />
+</audio></html>
+
 ---
 
 # This is a slide
@@ -26,10 +31,26 @@ Hello world
 
 <img src="profile.jpg" alt="This image is in /static" width="25%">
 
+
 Notes: Some more notes go here
+practice - is this working?  
+
+<html>
+<audio controls >
+  <source src="audio_test.mp3" />
+</audio></html>
 
 ---
+# Video Slide
+<html>
+<video style="display:block; margin: 0 auto;" width="80%" height="auto" controls >
+  <source src="sample_video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></html>
 
+Notes: Does this video work? Let's say a prayer that it does!  
+
+---
 # Let's practice!
 
 Notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique

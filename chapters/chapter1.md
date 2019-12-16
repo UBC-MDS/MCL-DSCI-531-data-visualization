@@ -1,17 +1,16 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'Module 1: Discovering Visualization'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
-prev: null
+  'This module will introduce to you how and why visualization is useful. We will introduce ggplot - an R package and the role of visualization in EDA' 
+prev: /chapter0
 next: /chapter2
 type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Introduction" type="slides">
+<exercise id="1" title="Discovering Visualization" type="slides">
 
-<slides source="chapter1_01_introduction">
+<slides source="chapter1_01_discovering_viz">
 </slides>
 
 </exercise>
@@ -19,6 +18,7 @@ id: 1
 <exercise id="2" title="Getting Started">
 
 Let's ask some questions about the slides. Whats the correct answer?
+
 
 <choice>
 <opt text="Answer one">
