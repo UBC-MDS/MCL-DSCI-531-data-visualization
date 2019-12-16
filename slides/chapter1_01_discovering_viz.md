@@ -43,7 +43,7 @@ practice - is this working?
 ---
 # Video Slide
 <html>
-<video style="display:block; margin: 0 auto;" width="70%" height="auto" controls >
+<video style="display:block; margin: 0 auto;" width="100%" height="auto" controls >
   <source src="sample_video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video></html>
