@@ -4,7 +4,7 @@
     "slogan": "Part of UBC's Mid-Career Learning program",
     "description": "Learn about exploratory data analysis, how to summarize and explore data through visualizations. Get familiar with plotting tools in R, in particular; ggplot. Learn how to design an effective visualization.",
     "bio": "UBC information and Mid-careers information",
-    "siteUrl": "",
+    "siteUrl": "https://upbeat-bohr-0aef57.netlify.com",
     "twitter": "UBCMDS",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "success <- function(text) {\n    cat(paste(\"\\033[32m\", text, \"\\033[0m\", sep = \"\"))\n}\n\n.solution <- \"${solutionEscaped}\"\n\n${solution}\n\n${test}\ntryCatch({\n    test()\n}, error = function(e) {\n    cat(paste(\"\\033[31m\", e[1], \"\\033[0m\", sep = \"\"))\n})",
