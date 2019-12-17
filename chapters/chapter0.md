@@ -17,25 +17,25 @@ id: 1
 
 <exercise id="2" title="Getting Started">
 
-Let's ask some questions about the slides. Whats the correct answer?
+Have you taken **DSCI 511b - Programming in R for Data Science**?
 
 
 <choice>
-<opt text="Answer one">
+<opt text="Yes, I am ready to take DSCI 531 Exploratory Data Visualization" correct="true">
 
-This is not the correct answer.
-
-</opt>
-
-<opt text="Answer two" correct="true">
-
-Good job!
+Great! Let's get started. Please continue on to Module 1.
 
 </opt>
 
-<opt text="Answer three">
+<opt text="I have not but I'm feeling confident that I know R well enough" correct="true">
 
-This is not correct either.
+We recommend having a solid understanding in coding in R. If you feel confident in your knowledge feel free to continue on to Module 1. 
+
+</opt>
+
+<opt text="I have not and I have little R coding background">
+
+Please take the course **DSCI 511b - Programming in R for Data Science** before proceeding onto Module 1.
 
 </opt>
 </choice>
